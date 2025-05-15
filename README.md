@@ -21,5 +21,5 @@ The following dataset(s) were used:
 * washington.csv
 
 ### Credits:
-
+Thank you to Udacity.
 
