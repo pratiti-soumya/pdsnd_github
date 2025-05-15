@@ -7,7 +7,7 @@ I created this project on **May 14th, 2025.**
 **Bikeshare Database Exploration**
 
 ### Description:
-Describe what your project is about and what it does
+This explores bikeshare data in the U.S.
 
 ### Files used:
 The Main script in in the following file(s):
