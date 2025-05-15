@@ -27,6 +27,13 @@ def get_filters():
 
     # get user input for month (all, january, february, ... , june)
 
+    valid_months = ['january', 'february', 'march', 'april', 'may', 'june', 'all']
+    while True:
+    month = input("Enter month (january to june) or 'all': ").lower()
+    if month in VALID_MONTHS:
+        break
+    print("Invalid month. Try again.")
+
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
 
